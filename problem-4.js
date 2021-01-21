@@ -1,4 +1,4 @@
-// find the max value  of  multiple numbers 
+// find the max value  from  multiple numbers 
 
 function max(numbers){
     var result = 0;
